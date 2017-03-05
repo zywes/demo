@@ -1,5 +1,6 @@
 # demo
 - first commit
+- conflicting commit
 
 ## Master
 - updated 17:21
