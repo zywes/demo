@@ -6,6 +6,9 @@
 - updated 17:21
 - potential conflict - update 19:06
 
+## branch sun-1200
+- added after master committed conflicting line
+
 ## branch 1723
 - first change
 
