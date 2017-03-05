@@ -3,7 +3,10 @@
 
 ## Master
 - updated 17:21
-- updated 19:00
+- potential conflict - update 19:06
+
+## branch 1723
+- first change
 
 ## branch 1
 - first commit in branch 1
